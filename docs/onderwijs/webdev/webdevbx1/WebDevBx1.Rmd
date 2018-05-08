@@ -1,0 +1,86 @@
+---
+title: "WebDevBx1"
+author: "Witek ten Hove"
+date: "2/16/2018"
+output:
+  slidy_presentation:
+    duration: 45
+    fig_width: 4
+    highlight: pygments
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Leerdoelen
+<hr>
+- Je kent de structuur van een webpagina
+- Je kunt een aantrekkelijke webpagina bouwen met HTML en CSS
+- Je kunt een website online plaatsen
+
+<br>
+<hr>
+Zie [MSI Wiki](https://bkmoodle.femplaza.nl/mod/wiki/view.php?pageid=227) voor naslagwerk
+
+## Structuur webpagina
+<hr>
+**Opdracht:** Open een blanco RHtml-bestand
+
+<img src="images/openrhtml.png" style="width:60%">
+
+
+## Structuur webpagina
+<hr>
+```HTML
+<html>
+
+<head>
+<title>Title</title>
+</head>
+
+<body>
+<p>Tekst</p>
+</body>
+
+</html>
+```
+
+## HTML
+<hr>
+**Opdracht:**
+
+1. Pas de titel aan
+2. Pas de tekst aan
+3. Maak meerdere paragrafen voorzien van een heading
+
+## CSS
+<hr>
+**Opdracht:**
+
+1. Zet een div-blok boven aan je pagina met je naam als heading
+2. Verander de tekst kleur en kies een passende achtergrondkleur
+
+## HTML elementen
+<hr>
+**Opdracht:**
+
+1. Voeg een [hyperlink](#) toe
+2. Voeg een foto en een video toe
+<div>
+<img src="https://witusj.github.io/MinorSI/images/smind.png" style="width:20%"><br>
+<iframe width="210" height="120" src="https://www.youtube.com/embed/bBWrbEUu3nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+4. Voeg een formulier toe (bijv. Google Forms)
+
+## Hosten op Github
+<hr>
+**Opdracht:** plaats je site op Github en laat deze beoordelen door anderen (zie opdracht [Training Web Dev Basics 1](https://bkmoodle.femplaza.nl/mod/workshop/view.php?id=7107)).
+
+
+
+
+
