@@ -10,11 +10,13 @@ library(leaflet)
 library(tidyverse)
 library(knitr)
 library(plotly)
+library(htmltools)
 
 locale("nl")
 newDF <- read.csv2("inschrijvingen.csv", na.strings = c("", "NA"))[,-8] %>% na.omit() %>% mutate(Lat = jitter(Lat, factor = 1.5), Lon = jitter(Lon, factor = 1.5))
-
 n <- dim(newDF)[1]
+newDF$Label <- sapply(1:n, function(x) HTML(paste("<b>",newDF[x,4], "</b>", "<br>", newDF[x,2])))
+
 tblGeslacht <- table(newDF$Geslacht, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
 tblOpleiding <- table(newDF$Instelling, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
 ```
@@ -33,13 +35,11 @@ kable(tblOpleiding, format = "pandoc", caption = "Tab.2 - Verdeling instelling e
 <hr>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-newDF <- read.csv2("inschrijvingen.csv", na.strings = c("", "NA"))[,-8] %>% na.omit() %>% mutate(Lat = jitter(Lat, factor = 1.5), Lon = jitter(Lon, factor = 1.5))
-
 pal <- colorFactor(c("#FD0E35", "#FDFF00", "#6CDAE7"), domain = c("ME", "ICT", "ENG"))
 
 leaflet(newDF, width = 900) %>%
   addProviderTiles(providers$Thunderforest.TransportDark) %>%
-  addCircleMarkers(radius = 12, color = ~pal(OpleidingType), opacity = 0.8, label = ~Instelling)
+  addCircleMarkers(radius = 12, color = ~pal(OpleidingType), opacity = 0.8, popup = ~Label)
 ```
 <hr>
 
