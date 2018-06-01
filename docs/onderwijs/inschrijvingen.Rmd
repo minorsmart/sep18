@@ -20,7 +20,7 @@ tblOpleiding <- table(newDF$Instelling, newDF$OpleidingType) %>% addmargins(., F
 ```
 
 <hr>
-In totaal hebben zich `r n` deelnemers aangemeld.
+In totaal hebben zich **`r n`** deelnemers aangemeld.
 <hr>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
