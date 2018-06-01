@@ -1,0 +1,55 @@
+---
+title: "Inschrijvingen MSI S1 Y2018/19"
+output: html_notebook
+---
+
+
+
+```{r include=FALSE}
+library(leaflet)
+library(tidyverse)
+library(knitr)
+library(plotly)
+
+locale("nl")
+newDF <- read.csv2("inschrijvingen.csv", na.strings = c("", "NA"))[,-8] %>% na.omit() %>% mutate(Lat = jitter(Lat, factor = 1.5), Lon = jitter(Lon, factor = 1.5))
+
+n <- dim(newDF)[1]
+tblGeslacht <- table(newDF$Geslacht, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
+tblOpleiding <- table(newDF$Instelling, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
+```
+
+<hr>
+In totaal hebben zich `r n` deelnemers aangemeld.
+<hr>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+kable(tblGeslacht, format = "pandoc", caption = "Tab.1 - Verdeling geslacht en opleidingtype", padding = 2)
+```
+<hr>
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+kable(tblOpleiding, format = "pandoc", caption = "Tab.2 - Verdeling instelling en opleidingtype", padding = 2)
+```
+<hr>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+newDF <- read.csv2("inschrijvingen.csv", na.strings = c("", "NA"))[,-8] %>% na.omit() %>% mutate(Lat = jitter(Lat, factor = 1.5), Lon = jitter(Lon, factor = 1.5))
+
+pal <- colorFactor(c("#FD0E35", "#FDFF00", "#6CDAE7"), domain = c("ME", "ICT", "ENG"))
+
+leaflet(newDF, width = 900) %>%
+  addProviderTiles(providers$Thunderforest.TransportDark) %>%
+  addCircleMarkers(radius = 12, color = ~pal(OpleidingType), opacity = 0.8, label = ~Instelling)
+```
+<hr>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+dfGeslacht <- data.frame(Geslacht = rownames(tblGeslacht)[1:2], Aantal = tblGeslacht[1:2,4])
+plot_ly(dfGeslacht, labels = ~Geslacht, values = ~Aantal, type = 'pie') %>% layout(showlegend = TRUE)
+```
+<hr>
+
+```{r echo=FALSE, warning=FALSE}
+dfOpleiding <- data.frame(Type = colnames(tblOpleiding)[1:3], Aantal = tblOpleiding[dim(tblOpleiding)[1],1:3])
+plot_ly(dfOpleiding, labels = ~Type, values = ~Aantal, type = 'pie') %>% layout(showlegend = TRUE)
+```
