@@ -47,16 +47,16 @@ leaflet(newDF, width = 900) %>%
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
 dfGeslacht <- data.frame(Geslacht = rownames(tblGeslacht)[1:2], Aantal = tblGeslacht[1:2,4])
-plot_ly(dfGeslacht, labels = ~Geslacht, values = ~Aantal, type = 'pie') %>% layout(showlegend = TRUE)
+plot_ly(dfGeslacht, labels = ~Geslacht, values = ~Aantal, type = 'pie', width = 700) %>% layout(showlegend = TRUE)
 ```
 <hr>
 
 ```{r echo=FALSE, warning=FALSE}
 dfOpleiding <- data.frame(Type = colnames(tblOpleiding)[1:3], Aantal = tblOpleiding[dim(tblOpleiding)[1],1:3])
-plot_ly(dfOpleiding, labels = ~Type, values = ~Aantal, type = 'pie') %>% layout(showlegend = TRUE)
+plot_ly(dfOpleiding, labels = ~Type, values = ~Aantal, type = 'pie', width = 700) %>% layout(showlegend = TRUE)
 ```
 
 ```{r echo=FALSE, warning=FALSE}
 dfInstelling <- data.frame(Instelling = rownames(tblOpleiding)[1:5], Aantal = tblOpleiding[1:5,dim(tblOpleiding)[2]])
-plot_ly(dfInstelling, labels = ~Instelling, values = ~Aantal, type = 'pie', width = 800) %>% layout(showlegend = TRUE)
+plot_ly(dfInstelling, labels = ~Instelling, values = ~Aantal, type = 'pie', width = 700) %>% layout(showlegend = TRUE)
 ```
