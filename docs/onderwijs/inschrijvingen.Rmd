@@ -19,6 +19,8 @@ newDF$Label <- sapply(1:n, function(x) HTML(paste("<b>",newDF[x,4], "</b>", "<br
 
 tblGeslacht <- table(newDF$Geslacht, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
 tblOpleiding <- table(newDF$Instelling, newDF$OpleidingType) %>% addmargins(., FUN = list(Totaal = sum), quiet = TRUE)
+
+cntHAN <- filter(newDF, Plaats == "Arnhem") %>% dim
 ```
 
 <hr>
@@ -52,4 +54,9 @@ plot_ly(dfGeslacht, labels = ~Geslacht, values = ~Aantal, type = 'pie') %>% layo
 ```{r echo=FALSE, warning=FALSE}
 dfOpleiding <- data.frame(Type = colnames(tblOpleiding)[1:3], Aantal = tblOpleiding[dim(tblOpleiding)[1],1:3])
 plot_ly(dfOpleiding, labels = ~Type, values = ~Aantal, type = 'pie') %>% layout(showlegend = TRUE)
+```
+
+```{r echo=FALSE, warning=FALSE}
+dfInstelling <- data.frame(Instelling = rownames(tblOpleiding)[1:5], Aantal = tblOpleiding[1:5,dim(tblOpleiding)[2]])
+plot_ly(dfInstelling, labels = ~Instelling, values = ~Aantal, type = 'pie', width = 800) %>% layout(showlegend = TRUE)
 ```
