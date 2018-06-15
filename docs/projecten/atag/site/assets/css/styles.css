@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
-	color: #232323;
-	background-color: #d14c00; 
+	color: #dfdfdf;
+	background-color: #3b0442; 
 }
 
 a {
@@ -18,15 +18,15 @@ section{
 }
 
 .section-1 {
-	background: #d1d1d1;
+	background: #063647;
 }
 
 .section-2 {
-	background-color: #a09f9f;
+	background-color: #052D3D;
 }
 
 .section-3 {
-	background-color: #969494;
+	background-color: #0E282E;
 }
 
 .section-4 {
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #161616;
+	color: #fff;
 	text-align: left;
 	margin-bottom: 2rem;
 }

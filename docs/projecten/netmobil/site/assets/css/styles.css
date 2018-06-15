@@ -1,15 +1,15 @@
 html, body{
 	font-size:16px;
-	color: #5b5b5b;
-	background-color: #eaefef; 
+	color: #dfdfdf;
+	background-color: #3b0442; 
 }
 
 a {
-  color: #5b5b5b;
+  color: #00d1b2;
 }
 
 a:hover {
-  color: #5b5b5b;
+  color: #00d1b2;
 }
 
 section{
@@ -18,33 +18,33 @@ section{
 }
 
 .section-1 {
-	background-color: #eaefef;
+	background: #063647;
 }
 
 .section-2 {
-	background-color: #eaefef;
+	background-color: #052D3D;
 }
 
 .section-3 {
-	background-color: #eaefef;
+	background-color: #0E282E;
 }
 
 .section-4 {
-	background-color: #eaefef;
+	background-color: #063647;
 	padding: 0.2rem;
 }
 
 a.nav-item {
-	color: #5b5b5b;
+	color: #dfdfdf;
 }
 
 a.nav-item:hover {
-	color: #5b5b5b;
+	color: #fff;
 }
 
 .avatar{
-	height:275px;
-	border-radius: 75%;
+	height:200px;
+	border-radius: 50%;
 }
 
 .intro-description{
@@ -52,8 +52,8 @@ a.nav-item:hover {
 }
 
 .social-container img{
-	max-width:50%;
-	max-height:100px;
+	max-width:100%;
+	max-height:175px;
 	margin-bottom:15px;
 }
 
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #5b5b5b;
+	color: #fff;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -85,24 +85,24 @@ a.nav-item:hover {
 }
 
 .void-background {
-	background-color: #eaefef; 
+	background-color: transparent; 
 }
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #eaefef;
+		background-color: #063647;
 	}
 
 	.nav-toggle:hover {
-		background-color: #eaefef;
+		background-color: transparent;
 	}
 
 	.nav-toggle span {
-		background-color: #eaefef;
+		background-color: #dfdfdf;
 	}
 
 	.nav-toggle span:hover {
-		background-color: #eaefef;
+		background-color: #fff;
 	}
 
 }
