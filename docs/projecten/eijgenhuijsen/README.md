@@ -1,7 +1,7 @@
 # Smart Claims
 
 ## Projecteigenaren en partners
-+ **Eijgenhuijsen** - Projecteigenaar
++ **Eijgenhuijsen BV** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
