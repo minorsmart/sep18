@@ -22,4 +22,5 @@ De organisatie wil laten onderzoeken op welke wijze het claimproces Smart kan wo
 + [Claim Process Automation](https://youtu.be/dT0INU-fmI8)
 + [Robotics in action in insurance](https://youtu.be/9rdkK_8omAo)
 + [Snatchbot](https://youtu.be/YnNwCobbUdA)
++ [Build your own blockchain in JavaScript](https://youtu.be/zVqczFZr124)
 
