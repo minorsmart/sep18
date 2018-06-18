@@ -9,17 +9,17 @@ Eijgenhuijsen BV verzorgt hoogwaardige logistieke dienstverlening. De goederen d
 
 ![](https://www.eijgenhuijsen.nl/wp-content/uploads/2018/02/Onderzoek_Eijgehuijsen.jpg)
 
-Eijgenhuijsen heeft veel geinvesteerd in automatisering en digitalisering van processen en ziet dit als één
+Eijgenhuijsen heeft veel geinvesteerd in automatisering en digitalisering van processen en ziet dit als één van de belangrijkste factoren om te kunnen groeien en leidend te blijven in de branche. Één van de processen die in de volgende kwaliteitssprong moet worden verbeterd, is de afhandeling van schadeclaims. Momenteel moeten er nog te veel (handmatige) handelingen worden uitgevoerd. Dit kost tijd en verhoogt het risico op fouten. Tevens is het moeilijk om analyses uit te voeren omdat veel data niet digitaal beschikbaar is.
+
+De organisatie wil laten onderzoeken op welke wijze het claimproces Smart kan worden ingericht en welke concrete maatregelen nodig zijn om dit te realiseren.
 
 ## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Dion Penterman](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
-+ [Peter Smit](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
-+ [Marco van Ree](https://www.besite.nl/) - Technisch Specialist / [BeSite](https://www.besite.nl/)
-+ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
++ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) 
++ [Susan Keijsers](https://www.linkedin.com/in/susankeijsers/) - Kwaliteitscoördinator / [Eijgenhuijsen BV](https://www.eijgenhuijsen.nl/)
   
 ## Inspiratie
-+ [Playlist Google Adwords](https://www.youtube.com/playlist?list=PL9piTIvKJnJPB729hcZYSEXCsQFyeJV44)
-+ [Free Code Camp](https://www.freecodecamp.org/)
-+ [How to code PHP](https://youtu.be/qVU3V0A05k8)
++ [VvAA Schade Whatsapp](https://www.vvaa.nl/service/schade/schade-melden-via-whatsapp)
++ [Claim Process Automation](https://youtu.be/dT0INU-fmI8)
++ [Robotics in action in insurance](https://youtu.be/9rdkK_8omAo)
++ [Snatchbot](https://youtu.be/YnNwCobbUdA)
 
