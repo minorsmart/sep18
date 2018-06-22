@@ -9,9 +9,9 @@
 
 ![](https://www.eijgenhuijsen.nl/wp-content/uploads/2018/02/Onderzoek_Eijgehuijsen.jpg)
 
-Eijgenhuijsen heeft veel geinvesteerd in automatisering en digitalisering van processen en ziet dit als één van de belangrijkste factoren om te kunnen groeien en [leidend](https://www.eijgenhuijsen.nl/eijgenhuijsen-in-de-top/) te blijven in de branche. Één van de processen die in de volgende kwaliteitscyclus zal worden verbeterd, is de afhandeling van schadeclaims. Momenteel moeten er nog te veel (handmatige) handelingen worden uitgevoerd. Dit kost tijd en verhoogt het risico op fouten. Tevens is het moeilijk om analyses uit te voeren omdat veel data niet digitaal beschikbaar is.
+Eijgenhuijsen heeft veel geinvesteerd in automatisering en digitalisering van processen en ziet dit als één van de belangrijkste factoren om te kunnen groeien en [leidend](https://www.eijgenhuijsen.nl/eijgenhuijsen-in-de-top/) te blijven in de branche. Één van de processen die in de volgende kwaliteitscyclus zal worden verbeterd, is de verwerking van schademeldingen. Momenteel moeten er nog te veel (handmatige) handelingen worden uitgevoerd en zijn sommige stappen binnen het proces nog niet gedigitaliseerd. Dit kost tijd en het verhoogt het risico op fouten.
 
-De organisatie wil laten onderzoeken op welke wijze het claimproces Smart kan worden ingericht en welke concrete maatregelen nodig zijn om dit te realiseren. Tevens wil zij een aantal oplossingsrichtingen uit laten werken tot prototypes waarmee getest kan worden en die ter inspiratie dienen voor de uiteindelijke applicatie.
+De organisatie wil laten onderzoeken op welke wijze het schademeldproces Smart kan worden ingericht en welke concrete maatregelen nodig zijn om dit te realiseren. Tevens wil zij een aantal oplossingsrichtingen uit laten werken tot prototypes waarmee getest kan worden en die ter inspiratie dienen voor de uiteindelijke applicatie.
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) 
