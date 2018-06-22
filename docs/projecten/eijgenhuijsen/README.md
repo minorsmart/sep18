@@ -1,4 +1,4 @@
-# Smart Claims
+# Smart Claim Processing
 
 ## Projecteigenaren en partners
 + **Eijgenhuijsen BV** - Projecteigenaar
