@@ -5,7 +5,7 @@
  
 
 ## Projectbeschrijving
-#### De opleiding Industrieel Product Ontwerpen van de HAN heeft een eigen ConceptLab. Docenten, onderzoekers en studenten bouwen hier via een ultrakort ontwerpproces aan producten die voldoende volwassen zijn om te kunnen worden getest in de markt.
+#### De opleiding Industrieel Product Ontwerpen (IPO) van de HAN heeft een eigen ConceptLab. Docenten, onderzoekers en studenten bouwen hier via een ultrakort ontwerpproces aan producten die voldoende volwassen zijn om te kunnen worden getest in de markt.
 
 Het ConceptLab is net uit de opstartfase en wil een volgende ontwikkelstap gaan maken. Hiervoor zoeken ze advies over onderwerpen als waardeproposities, customer relations en accountmanagement, interne en externe communicatie, enz. De uitdagingen hierbij zijn:
 
