@@ -10,7 +10,7 @@ De projecteigenaar wil zoveel mogelijk mensen ideeën laten aandragen en de faci
 
 
 ## Contactpersonen
-+ [Jeroen Veen](https://www.linkedin.com/in/jeroen-veen-3244444/) - Senior Onderzoeker Docent HAN - Faculteit Techniek - **projectcoach**
++ [Jeroen Veen](https://www.linkedin.com/in/jeroen-veen-3244444/) - Senior Onderzoeker Docent HAN - Faculteit Techniek - **Projectcoach**
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
 
 ## Inspiratie
