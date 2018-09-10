@@ -1,43 +1,27 @@
-# Project Digitale Fabriek
+## Inleiding
+Assemblagebedrijf Perfect is een ambitieus en vooruitstrevend bedrijf. Wij richten ons op de hele maakindustrie. Je vind bij ons dus ook een grote variatie aan producten.
 
-## Projecteigenaren en partners
+In 2015 ben ik Smart Industry ambassadeur geworden. Ik wil dus ook de smart industry initiatieven binnen assemblagebedrijf Perfect doorvoeren. Bijkomende uitdaging is dat het op een low cost manier moet gebeuren.
 
-**HAN Faculteiten Techniek en Economie/ Management** - Projecteigenaar
+De cobot zal steeds meer werk moeten gaan doen, zelfstandig of samen met een menselijke collega. Hij zal op een AGV of MiR  geplaatst worden zodat hij van de ene werkplek naar de andere kan rijden en zichzelf daar aandokken. Vanuit de “control room” zullen de AGV en cobot aangestuurd moeten worden. Vanuit die “control room” zullen alle digitale verbindingen gelegd moeten worden. Niet alleen naar de cobot maar ook naar een informatie scherm van de assemblage medewerker.
 
-**Data Computing** - Partner
+Ook  de orderadministratie in de hele keten zal digitaal moeten verlopen. Zowel de klant als assemblagebedrijf Perfect als de leverancier zullen hierbij in 1 document moeten administreren.
 
-**Siemens** - Partner
+### ICT infra structuur voor Smart Industry doeleinden
+Dit project vormt een onderdeel van een groter geheel zoals in de inleiding beschreven.
+Dit project zal nog helemaal vanaf de grond opgezet moeten worden. 
 
-## Projectbeschrijving
-#### De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevolle professionals. Een belangrijk kwaliteitscriterium voor het onderwijs dat wordt aangeboden is de mate waarin de eindcompetenties aansluiten bij de behoeftes van de maatschappij - relevantie.
+Concrete vragen:
+1.	Welke ICT infrastructuur heb ik nodig om van uit de “control room” met de werkvloer te communiceren? Eerst alleen naar de menselijke collega en later ook naar de cobot.
+2.	Hoe kom ik op basis van Excel tot een slimme orderadministratie met mijn klant en leverancier?
 
-Één relevante trend is de snelheid waarmee technologische innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om de kwaliteit van hun processen en output te optimaliseren.
+### Project inhoud
+Startpunt zal zijn de huidige laptop die een verouderde besturing heeft en te weinig geheugen. Hiervoor zal dus een slimme vervanger gekozen moeten worden, die als basis station moet gaan dienen.
 
-![Smart Industry](http://www.automation-valley.de/files/2013/02/Smart-Industry-schema.jpg)
+Op dit basis station staan onder andere machine instel instructies, assemblage manuals en visuele controle kaarten. Deze moeten op een of andere manier door de assemblagemedewerker ingezien kunnen worden op en nog te kiezen toestel. Via dit toestel moet de assemblagemedewerker ook wijzigingsvoorstellen kunnen aanmelden.
 
-Dit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *proof of concepts* worden ontwikkeld die onder praktijkomstandigheden worden getest. Zo kunnen de eerste ontwerpfouten worden geëlimineerd. Deze fase binnen het R&D-proces legt meestal een groot beslag op de schaarse bedrijfsmiddelen en wordt gekenmerkt door een hoge mate van risico.
+Op het basisstation staat een Excel bestand waarin wordt bijgehouden aan welk product er gewerkt is en hoelang. Die informatie wordt nog op papier aangeleverd. Dit zou ook via het toestel moeten kunnen.
 
-Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken (zie ook casus [Boeing](https://youtu.be/P-qJ6U-ixX0)) tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
+Van de aangebroken voorraad wordt  per verpakking bijgehouden hoeveel er verbruikt zijn. Het eindresultaat wordt via papier terug gekoppeld. Dit zou ook via het toestel moeten kunnen.
 
-De HAN wil haar studenten de gelegenheid bieden kennis en ervaring op te laten doen met het Digitale Fabriek paradigma. Hiertoe dient een software-omgeving te worden ingericht inclusief datasets. Bovendien moet worden onderzocht op welke wijze hieromheen onderwijs kan worden ontwikkeld (doelgroepen, integratie met bestaande modules, nieuwe trajecten, etc.)
-
-In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een projectplan (SCRUM). In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
-
-Het onderwerp van de proefopstelling is een systeem voor de productie van light weight constructions (LWC) voor de automotive sector. Zaken als materiaal handling, productie en kwaliteitscontrole moeten in een digitale omgeving kunnen worden geplaatst en getest. Een belangrijk kwaliteitscriterium bij dit project is de mate waarin de know-how onder de belanghebbenden (intern en extern) is verspreid en de continuiteit is geborgd.
-
-Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
-
-## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
-+ [Peter Verschut](linkedin.com/in/peter-verschut-94b6116) - Faculteit Techniek / Automotive
-+ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
-
-
-## Ter inspiratie
-
-+ [Siemens Tecnomatix](https://www.cardsplmsolutions.nl/producten/tecnomatix)
-+ [Siemens IT Security](https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/it-security-dossier.html)
-+ [Measuring Augmented Reality Impacts at Boeing](https://youtu.be/P-qJ6U-ixX0)
-+ [Minor Smart Manufacturing and Robotics HHS - Tape laying system](http://www.smrdelft.nl/tudelft-tape-laying-system/)
-+ [Smart Industry](https://www.smartindustry.nl/)
-
+De administratie gebeurt in Excel. Ik ben hier groot voorstander van omdat ik hierin zelf aanpassingen kan maken zonder tussenkomst van een duur ict-bedrijf. Ik wil dit dan ook zo lang mogelijk volhouden. Nu is het zo dat de klant een order aanmaakt in zijn systeem. Assemblagebedrijf Perfect neemt dit over in zijn systeem en zet weer een order uit naar de leverancier. Drie administratie dus die hetzelfde doel dienen en ook deels dezelfde informatie bevatten. Extra werk dus om de 3 bestanden te vullen en ook nog eens wanneer de info niet overeenstemt want dan moet er uitgezocht worden waar er fout getypt is. Er moet dus 1 bestand (in de cloud) komen waar alle drie de bedrijven bij kunnen, en gegevens kunnen delen. 
