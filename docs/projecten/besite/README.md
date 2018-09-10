@@ -1,25 +1,17 @@
-# Automatisering Google Adwords
+## Chatbots bij maakbedrijven
+Tijdens gesprekken met klanten (met name de maakbedrijven) merkt Besite dat het automatiseren van marketing- en (after)sales processen steeds hoger op de agenda komt te staan. Oplossingen als een product configurator en chatbots zijn daar concrete voorbeelden van waar ze graag mee aan de slag gaan.
 
-## Projecteigenaren en partners
-+ **Besite** - Projecteigenaar
-+ **Hogeschool Arnhem en Nijmegen** - Partner
+### Opdracht
+Gedurende de looptijd van de minor gaan de studenten gedeeltelijk bij Besite en gedeeltelijk bij de klant aan de slag. In hoofdlijnen zal het project bestaan uit 2 onderdelen:
 
-## Projectbeschrijving
-BeSite is dé internetspecialist uit de Achterhoek die bedrijven helpt naar meer online resultaat. BeSite bedenkt online strategieën en vernieuwende concepten. Daarnaast bouwen ze sites, shops, apps, applicaties en online marketing campagnes om online meer resultaat te behalen. Dit doen ze in 3 branches: Smart Industry, Smart Parking en Smart Mobility. Je leest het al; 3 keer Smart. 
+1. Onderzoek naar het proces voor productie en klantenservice: bij het bedrijf van keuze moet in kaart worden gebracht hoe het productieproces vormgegeven is. Belangrijk daarbij is om ook te achterhalen welke behoeften en vragen er leven bij nieuwe en bestaande klanten. Hier kan de chatbot op inhaken.
 
-BeSite wil slim, innovatief en vernieuwend zijn. Met behulp van online techniek de processen voor onze klanten slimmer inrichten. Dit doen we onder andere door het automatiseren van marketing en sales activiteiten. Eén van de diensten die BeSite levert is het inrichten en optimaliseren van betaalde advertentiecampagnes via Google AdWords. Ook dit willen we nóg slimmer doen.
+2. Onderzoek naar mogelijkheden chatbots: chatbots is een actueel onderwerp bij veel bedrijven. De opdrachtgever zou willen weten welke oplossingen er op dit moment al op de markt zijn, wat voor- en nadelen zijn van deze bestaande oplossingen en of ze eventueel zelf iets moeten gaan ontwikkelen.
 
-Samen met studentonderzoekers van de Minor Smart Industry (MSI) wil BeSite op zoek naar mogelijkheden om biedingen in Google Adwords te automatiseren en doeltreffender te maken, zodat klanten tegen lagere kosten meer resultaat kunnen halen uit hun online marketingcampagnes. 
+### Eindproduct
+Het eindproduct is een adviesrapport waarin de 2 bovengenoemde punten worden behandeld. Indien mogelijk kunnen samen met de studenten, ook al de eerste stappen zetten in de implementatie van de chatbots bij bedrijven.
 
-
-## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Dion Penterman](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
-+ [Peter Smit](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
-+ [Marco van Ree](https://www.besite.nl/) - Technisch Specialist / [BeSite](https://www.besite.nl/)
-+ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
-  
-## Inspiratie
-+ [Playlist Google Adwords](https://www.youtube.com/playlist?list=PL9piTIvKJnJPB729hcZYSEXCsQFyeJV44)
-+ [Free Code Camp](https://www.freecodecamp.org/)
-+ [How to code PHP](https://youtu.be/qVU3V0A05k8)
+### Inspiratie
+- [IBM Watson Assistent](https://www.ibm.com/watson/services/conversation/demo/index.html#demo)
+- [Snatchbot](https://snatchbot.me/)
+- [Google Dialogflow](https://dialogflow.com/)
