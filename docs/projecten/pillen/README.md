@@ -1,26 +1,23 @@
-# QRM pilot
+ERP systeem data op mobile devices: hoe?
 
-## Projecteigenaren en partners
-+ **Pillen Group** - Projecteigenaar
-+ **Hogeschool Arnhem en Nijmegen** - Partner
+Projecteigenaren en partners
 
-## Projectbeschrijving
-#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan. Pillen Group heeft recentelijk een studie laten uitvoeren door studentonderzoekers van MSI. De resultaten waren voldoende overtuigend om een pilot te overwegen.
+* Pillen Group - Projecteigenaar
 
-Een team van twee MSI-onderzoekers gaat deze pilot voorbereiden en de uitvoering begeleiden. Pillen heeft een productgroep geselecteerd waarmee het beste een start kan worden gemaakt en kan worden getest. Het gehele waardeproces van klantorder tot uitlevering zal worden doorgelicht en gemodelleerd. In overleg zal besloten worden welke QRM-elementen op korte termijn kunnen worden gerealiseerd. 
+* HAN – Minor Smart Industry
 
-+ Fase 1 - Voorbereiding en modellering QRM-traject
-+ Fase 2 - Uitvoering test en evaluatie
+Projectbeschrijving
 
-Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een presentatie en demonstratie tijdens de Smart Industry Seminar medio 2018.
+Data van het ERP (enterprise resource planning) systeem vanuit de productie omgeving koppelen aan smart phone of tablet; zelf doen of toch via leverancier?
 
-## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Henry Klein Hesselink](linkedin.com/in/henry-klein-hesselink-073b1358) - Manager Technical Logistic [Pillen Group](http://www.pillen.eu/)
-+ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
+1. Onderzoek wat de (on)mogelijkheden zijn om zelf een app te ontwikkelen en onderbouw de commerciële en technische haalbaarheid.
 
-## Inspiratie
-+ [Auping Smart Industry](https://youtu.be/BWgZXhm3WYM)
-+ [Center for Quick Response Manufacturing](https://qrm.engr.wisc.edu/)
-+ [Vooronderzoek QRM Pillen](https://minorsmart.github.io/sep2017/docs/projecten/pillen/site/index.html)
+De ERP leverancier van Pillen biedt een standaard app programma aan. Pillen wil meer en anders, o.a. onafhankelijkheid van de server van de leverancier! Wat is er nodig om dit op eigen kracht vorm te geven en biedt dat voor veel meer zaken binnen het pakket mogelijkheden tot de efficiënte inzet van mobile devices?
 
+2. Onderzoek daarnaast hoe mobile devices het proces van het klokken en printen van begeleidende documenten van directe productieorders kunnen vereenvoudigen.
+
+Het printen van productieorders, de papieren uit de printer halen en dan bij een stempelklok inklokken is niet erg ‘2018’ te noemen. Pillen wil graag vanuit online planningsschermen in de werkplaats (denk aan het vluchtenscherm op Schiphol) kunnen inklokken en tevens de nog benodigde orderpapieren kunnen printen (voor procescontrole, aantal meldingen en identificatie). Dit zou een enorme besparing op kunnen leveren! Wie verkent de horizon?
+
+Contactpersonen * Henry Klein Hesselink - Manager Technical Logistic Pillen Group
+
+* Mariëlle Seegers: Projectcoach Han Minor Smart Industry
