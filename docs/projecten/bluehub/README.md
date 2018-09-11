@@ -27,3 +27,6 @@ Tevens dient het kostenmodel voor de afnemersclusters nader onderzocht te worden
 waar toegevoegde waarde en kostenbesparingen zitten van technologische oplossingen o.b.v. IoT en big
 data. Literatuur- en praktijkonderzoek naar de huidige stand van zaken voor deze oplossingen i.c.m. een
 toepassingsgebied in de glastuinbouw als de vollegrondsteelt is daarbij een logische eerste stap.
+
+## Inspiratie
+- [Startdocument](https://github.com/minorsmart/sep2018/blob/master/docs/projecten/bluehub/Innoveins%20-%20Vraagstellig%20MSI.pdf)
