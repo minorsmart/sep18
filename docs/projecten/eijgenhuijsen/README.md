@@ -13,6 +13,8 @@ Eijgenhuijsen heeft veel geinvesteerd in automatisering en digitalisering van pr
 
 De organisatie wil laten onderzoeken op welke wijze het schademeldproces Smart kan worden ingericht en welke concrete maatregelen nodig zijn om dit te realiseren. Tevens wil zij een aantal oplossingsrichtingen uit laten werken tot prototypes waarmee getest kan worden en die ter inspiratie dienen voor de uiteindelijke applicatie.
 
+Het project zal binnen het programma van de [Talent Innovatie Pool](https://blog.han.nl/logistiek/tag/tip/) (TIP) worden uitgevoerd.
+
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) 
 + [Susan Keijsers](https://www.linkedin.com/in/susankeijsers/) - Kwaliteitscoördinator / [Eijgenhuijsen BV](https://www.eijgenhuijsen.nl/)
