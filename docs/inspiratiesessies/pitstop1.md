@@ -88,7 +88,7 @@ Tips:
 ## Digifab - Smart Cell - Thijs / Max
 Tips:
 - Thijs: Heeft handleiding Siemens S7 PLCs
-- Henry: PI NL: 13 november Profidag IoT (verslag)
+- Henry: 13 november [Profidag IoT](http://profibus.nl/profidag2018/) (verslag)
 - Thijs: Hou de opdracht echt
 
 # NB:
