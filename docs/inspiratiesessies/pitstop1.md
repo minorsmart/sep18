@@ -74,16 +74,21 @@ Tips:
 - Daan: Aanbod Lean expertise
 
 ## Metaflex - Continuous Flow Productie - Pascal / Daan
-
 Tips:
 - Witek: Digital Twin [Siemens PLM]( / process mining
 - Benno en Thijs: Boeken - Leren zien, Climbing te Mountain
 - Witek: Vraag om nadere uitleg en bied ruimte voor ideeën / Wees kritisch naar opdrachtgever; hou eigen belang in de gaten
 
 ## Perfect - Low cost ERP - Roy / Jesse
-- Rosan: Waarom G-Suite >> Herkenbaarheid met Excel en Low Cost
-- Henry: Afweging zelf ontwikkelen en inkopen?
+Tips:
+- Rosan: Waarom G-Suite >> Herkenbaarheid met Excel en Low Cost (bespreek dit in verslag)
+- Henry: Afweging zelf ontwikkelen en inkopen? (bespreek dit in verslag
+- Witek: Beschrijf jullie veranderstrategie en maak hiervan een concept; hoe kun je een opdrachtgever laten inzien dat de oplossingsset breder is dan gedacht?
 
+## Digifab - Smart Cell - Thijs / Max
+Tips:
+- Thijs: Heeft handleiding Siemens S7 PLCs
+- Henry: PI NL: 13 november Profidag IoT (verslag)
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
@@ -92,3 +97,4 @@ Tips:
 - Clicker en slides op één plek
 - Smart toeschouwers (75% eigenaarschap bij projectteam / 25% bij alle Smarties)
 - Bram (Security) koppelen aan Maurice Verheesen
+- Ervaringen WOTS-beurs als verslag
