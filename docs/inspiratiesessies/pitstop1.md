@@ -54,12 +54,12 @@ Tips:
 
 ## Innoveins - Onkruid detectie - Mieke / Jamie
 Tips:
-Witek: Combineren met project Mprice
-Witek: Zoek op [internet](https://youtu.be/-YCa8RntsRE) naar [inspiratie](https://youtu.be/aPHRPGIB-ko)
-Witek: resultaat zoekterm: "plant classification machine learning" >> https://youtu.be/NlpS-DhayQA, https://youtu.be/UrxIIbkpkbo
-Deny: Zoek eigenaren
-Thijs: Hou je eigen belang in de gaten
-Stefan: Neem vroeg genoeg contact op met gebruikers (telers)
+- Witek: Combineren met project Mprice
+- Witek: Zoek op [internet](https://youtu.be/-YCa8RntsRE) naar [inspiratie](https://youtu.be/aPHRPGIB-ko)
+- Witek: resultaat zoekterm: "plant classification machine learning" >> https://youtu.be/NlpS-DhayQA, https://youtu.be/UrxIIbkpkbo
+- Deny: Zoek eigenaren
+- Thijs: Hou je eigen belang in de gaten
+- Stefan: Neem vroeg genoeg contact op met gebruikers (telers)
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
