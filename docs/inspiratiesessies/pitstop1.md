@@ -42,7 +42,7 @@ Tips:
 ## Q-concepts - Structuur organisatie op groei aanpassen - Niels / Lina
 Tips:
 - Witek: [Google reWork](https://youtu.be/QC_PGHkRvTw)
-- Witek: Social Graph
+- Witek: [Social Graph](https://github.com/minorsmart/sep2018/blob/master/docs/inspiratiesessies/000003.png?raw=true) - ([data](https://docs.google.com/spreadsheets/d/1mf1BJPOkrpS_XJafI62gl82wDoZaqZnziMt3co3Z1_c/edit?usp=sharing)
 - Deny: Knowledge management / [Smart Working](https://www.fme.nl/nl/kansen-pakken-smart-working-model)
 
 ## Mprise - Procesoptimalisatie Glastuinbouw via AR/MR - Joury / Marno
@@ -63,7 +63,8 @@ Tips:
 
 ## NXP - Automatisering ConfigMgmt - Bram / Jeffrey / Nicky
 Tips:
-- Witek: 
+- Marno: FMEA
+- Thijs: Unit testen en intergration testen
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
