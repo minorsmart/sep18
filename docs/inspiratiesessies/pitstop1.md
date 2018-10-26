@@ -23,12 +23,32 @@ Tips:
 - Thijs: Praat met Tim Geerts
 - Mariëlle: Spreek ook ouder aan / Home IoT
 
-## Centerpoort-Nieuwsgraaf - Verkeersstromen - Rosan Josh
+## Centerpoort-Nieuwsgraaf - Verkeersstromen - Rosan / Josh
 Tips:
 - Bart: Besite verkeerssysteem [Arena](https://www.besite.nl/reference/johan-cruijff-arena/)
 - Thijs: Heeft contacten
 - Witek: [Anylogic](https://www.anylogic.com/)
 - Mariëlle: Gedragspsychologie - Nasim Taleb
+
+## Besite - Automatisering Customer Service Proces - Bram / Bart
+Tips:
+- Witek: Praat met Accenture via Ahmet (o.a Customer Journey Routing)
+- Witek: websites testen met [Headless Chrome](https://developers.google.com/web/tools/puppeteer/) en Selenium
+- Thijs: Boek: [Service Design Doing](https://www.thisisservicedesigndoing.com/)
+- Mariëlle: Kijk ook naar wat klanten ervaren
+- Deny: Neem verantwoordelijkheid en eigenaarschap
+- Marno: Bied aan om te helpen bij projectmanagement competenties
+
+## Q-concepts - Structuur organisatie op groei aanpassen - Niels / Lina
+Tips:
+- Witek: [Google reWork](https://youtu.be/QC_PGHkRvTw)
+- Witek: Social Graph
+- Deny: Knowledge management / [Smart Working](https://www.fme.nl/nl/kansen-pakken-smart-working-model)
+
+## Mprise - Procesoptimalisatie Glastuinbouw via AR/MR - Joury / Marno
+Tips:
+- Witek: Veiligheidsbril (Gamma) met Arduino >> LCD-scherm?
+- Witek: koppeling met project Innoveins (Mieke en Jamie)
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
