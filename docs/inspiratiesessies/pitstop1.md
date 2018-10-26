@@ -74,8 +74,10 @@ Tips:
 - Daan: Aanbod Lean expertise
 
 ## Metaflex - Continuous Flow Productie - Pascal / Daan
+
 Tips:
-- 
+- Witek
+
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
