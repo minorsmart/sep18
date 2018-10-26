@@ -49,6 +49,10 @@ Tips:
 Tips:
 - Witek: Veiligheidsbril (Gamma) met Arduino >> LCD-scherm?
 - Witek: koppeling met project Innoveins (Mieke en Jamie)
+- Deny: Shoppen bij ICA
+- Thijs: Stuurt link over DIY Google Glass
+
+
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
