@@ -42,7 +42,7 @@ Tips:
 ## Q-concepts - Structuur organisatie op groei aanpassen - Niels / Lina
 Tips:
 - Witek: [Google reWork](https://youtu.be/QC_PGHkRvTw)
-- Witek: [Social Graph](https://github.com/minorsmart/sep2018/blob/master/docs/inspiratiesessies/000003.png?raw=true) - ([data](https://docs.google.com/spreadsheets/d/1mf1BJPOkrpS_XJafI62gl82wDoZaqZnziMt3co3Z1_c/edit?usp=sharing)
+- Witek: [Social Graph](https://github.com/minorsmart/sep2018/blob/master/docs/inspiratiesessies/000003.png?raw=true) - ([data](https://docs.google.com/spreadsheets/d/1mf1BJPOkrpS_XJafI62gl82wDoZaqZnziMt3co3Z1_c/edit?usp=sharing))
 - Deny: Knowledge management / [Smart Working](https://www.fme.nl/nl/kansen-pakken-smart-working-model)
 
 ## Mprise - Procesoptimalisatie Glastuinbouw via AR/MR - Joury / Marno
@@ -65,10 +65,17 @@ Tips:
 Tips:
 - Marno: FMEA
 - Thijs: Unit testen en intergration testen
+- Stefan: Risico-inventarisatie en evaluatie (ISO31000)
+- Tom: Biedt expertise aan
+
+## Eijgenhuisen - Digitaal Schademeldsysteem - Benno /Tom
+Tips:
+- 
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
 - Communiceer duidelijk met alle belanghebbenden
 - Verslag maken met alle slides voor nieuwsbrief (Wie pakt dit op?)
 - Clicker en slides op één plek
-- Smart toeschouwers 
+- Smart toeschouwers
+- Bram (Security) koppelen aan Maurice Verheesen
