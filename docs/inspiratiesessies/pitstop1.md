@@ -76,7 +76,13 @@ Tips:
 ## Metaflex - Continuous Flow Productie - Pascal / Daan
 
 Tips:
-- Witek
+- Witek: Digital Twin [Siemens PLM]( / process mining
+- Benno en Thijs: Boeken - Leren zien, Climbing te Mountain
+- Witek: Vraag om nadere uitleg en bied ruimte voor ideeën / Wees kritisch naar opdrachtgever; hou eigen belang in de gaten
+
+## Perfect - Low cost ERP - Roy / Jesse
+- Rosan: Waarom G-Suite >> Herkenbaarheid met Excel en Low Cost
+- Henry: Afweging zelf ontwikkelen en inkopen?
 
 
 # NB:
