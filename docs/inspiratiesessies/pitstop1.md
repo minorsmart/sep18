@@ -68,14 +68,19 @@ Tips:
 - Stefan: Risico-inventarisatie en evaluatie (ISO31000)
 - Tom: Biedt expertise aan
 
-## Eijgenhuisen - Digitaal Schademeldsysteem - Benno /Tom
+## Eijgenhuisen - Digitaal Schademeldsysteem - Benno / Tom
+Tips:
+- Witek: Verslag Logistieke ICT-beurs voor nieuwsbrief - [blog](https://bountielol.github.io/studytech/index.html)
+- Daan: Aanbod Lean expertise
+
+## Metaflex - Continuous Flow Productie - Pascal / Daan
 Tips:
 - 
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
 - Communiceer duidelijk met alle belanghebbenden
-- Verslag maken met alle slides voor nieuwsbrief (Wie pakt dit op?)
+- Verslag maken met alle slides voor nieuwsbrief (Wie pakt dit op?) >> algemeen voed het nieuws met eigen werk
 - Clicker en slides op één plek
-- Smart toeschouwers
+- Smart toeschouwers (75% eigenaarschap bij projectteam / 25% bij alle Smarties)
 - Bram (Security) koppelen aan Maurice Verheesen
