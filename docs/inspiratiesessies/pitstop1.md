@@ -89,6 +89,7 @@ Tips:
 Tips:
 - Thijs: Heeft handleiding Siemens S7 PLCs
 - Henry: PI NL: 13 november Profidag IoT (verslag)
+- Thijs: Hou de opdracht echt
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
