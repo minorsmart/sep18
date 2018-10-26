@@ -19,15 +19,16 @@ Tips:
 ## Internethuis - Stadshub / Smartlab IoT - Eveline / Suzanne / Laura
 Tips:
 - Witek: Projectpromotie aangepast op Doelgroep - Social Media - Sneak previews / Gamification / Inspiratie - Nemo A'dam ....
-- Witek: Design thinking / [Thomas Rau](http://www.rau.eu/over-ons/) / [Anylogic](https://www.anylogic.com/)
+- Witek: Design thinking / [Thomas Rau](http://www.rau.eu/over-ons/)
 - Thijs: Praat met Tim Geerts
-- Mariëlle: Spreek ook ouder aan / Home IoT / Gedragspsychologie - Nasim Taleb
+- Mariëlle: Spreek ook ouder aan / Home IoT
 
 ## Centerpoort-Nieuwsgraaf - Verkeersstromen - Rosan Josh
 Tips:
 - Bart: Besite verkeerssysteem [Arena](https://www.besite.nl/reference/johan-cruijff-arena/)
 - Thijs: Heeft contacten
-- Witek: 
+- Witek: [Anylogic](https://www.anylogic.com/)
+- Mariëlle: Gedragspsychologie - Nasim Taleb
 
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
