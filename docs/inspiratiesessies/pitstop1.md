@@ -61,8 +61,13 @@ Tips:
 - Thijs: Hou je eigen belang in de gaten
 - Stefan: Neem vroeg genoeg contact op met gebruikers (telers)
 
+## NXP - Automatisering ConfigMgmt - Bram / Jeffrey / Nicky
+Tips:
+- Witek: 
+
 # NB:
 - Maak vol gebruik van alle faciliteiten die tijdens MSI worden aangeboden
 - Communiceer duidelijk met alle belanghebbenden
-- Verslag maken met alle slides voor nieuwsbrief
+- Verslag maken met alle slides voor nieuwsbrief (Wie pakt dit op?)
 - Clicker en slides op één plek
+- Smart toeschouwers 
